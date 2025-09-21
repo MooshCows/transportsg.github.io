@@ -847,6 +847,31 @@ EDSData.SBST = {
                 ]
             }
         }
+        "21X": {
+        1: {
+            front: {
+                renderType: "standardService",
+                serviceNumber: "21X",
+                destination: {
+                    text: "ST MICHAEL'S TER - THOMSON ROAD (LOOP)",
+                    font: "LECIP-8"
+                },
+                scrolls: [
+                    "JLN BAHAGIA",
+                    "JLN TENTRAM"
+                ],
+                scrollFont: "LECIP-8"
+            },
+            pids: {
+                renderType: "pids",
+                serviceNumber: "21X",
+                destination: "ST MICHAEL'S TER",
+                scrolls: [
+                    "ST MICHAEL'S TER"
+                    "NOVENA STN"
+                ]
+            }
+        },
     },
     23: {
         1: {
@@ -9035,6 +9060,31 @@ EDSData.SBST = {
                 destination: "TAMPINES CONCOURSE INT",
                 scrolls: [
                     "TAMPINES CONCOURSE INT"
+                ]
+            }
+        }
+        "298X": {
+        1: {
+            front: {
+                renderType: "standardService",
+                serviceNumber: "298X",
+                destination: {
+                    text: "TAMP NORTH INT-TAMP ST 86 (LOOP)",
+                    font: "LECIP-8"
+                },
+                scrolls: [
+                    "TAMPINES CENTRAL 1",
+                    "TAMPINES AVE 4",
+                    "TAMPINES AVE 3"
+                ],
+                scrollFont: "LECIP-8"
+            },
+            pids: {
+                renderType: "pids",
+                serviceNumber: "298X",
+                destination: "TAMPINES NORTH INT",
+                scrolls: [
+                    "TAMPINES NORTH INT"
                 ]
             }
         }
