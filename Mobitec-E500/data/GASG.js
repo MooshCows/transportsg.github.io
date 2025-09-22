@@ -268,16 +268,16 @@ EDSData.GASG = {
     22: {
         front: {
             renderType: "standardService",
-            serviceNumber: "2",
+            serviceNumber: "2X",
             destination: {
-                text: "CHANGI VILLAGE",
+                text: "LOYANG",
                 font: "Mobitec-7:7"
             },
             scrolls: [
                 {
                     renderType: "destScroll",
-                    serviceNumber: "2",
-                    top: "Changi Village",
+                    serviceNumber: "2X",
+                    top: "Loyang",
                     topFont: "Mobitec-13:8"
                 },
             ],
