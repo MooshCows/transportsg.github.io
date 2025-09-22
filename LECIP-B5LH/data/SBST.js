@@ -116,7 +116,7 @@ EDSData.SBST = {
         1: {
             front: {
                 renderType: "standardService",
-                serviceNumber: "4",
+                serviceNumber: "4X",
                 destination: {
                     text: "TAMPINES - CHANGI NTH WAY",
                     font: "LECIP-8"
@@ -132,7 +132,7 @@ EDSData.SBST = {
             },
             pids: {
                 renderType: "pids",
-                serviceNumber: "4",
+                serviceNumber: "4X",
                 destination: "TAMPINES INT",
                 scrolls: [
                     "TAMPINES INT"
