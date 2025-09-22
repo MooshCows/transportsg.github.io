@@ -1288,7 +1288,7 @@ EDSData.GASG = {
     1181: {
         front: {
             renderType: "standardService",
-            serviceNumber: "118",
+            serviceNumber: "118X",
             destination: {
                 text: "CHANGI BUSINESS PARK",
                 font: "Mobitec-7:5:3"
@@ -1296,7 +1296,7 @@ EDSData.GASG = {
             scrolls: [
                 {
                     renderType: "destScroll",
-                    serviceNumber: "118",
+                    serviceNumber: "118X",
                     top: "Changi Business Park",
                     topFont: "Mobitec-7:5:3"
                 },
@@ -1307,7 +1307,7 @@ EDSData.GASG = {
     1182: {
         front: {
             renderType: "standardService",
-            serviceNumber: "118",
+            serviceNumber: "118X",
             destination: {
                 text: "PUNGGOL",
                 font: "Mobitec-7:7"
@@ -1315,7 +1315,7 @@ EDSData.GASG = {
             scrolls: [
                 {
                     renderType: "destScroll",
-                    serviceNumber: "118",
+                    serviceNumber: "118X",
                     top: "Punggol",
                     topFont: "Mobitec-13:8"
                 },
@@ -1374,7 +1374,7 @@ EDSData.GASG = {
     1191: {
         front: {
             renderType: "standardService",
-            serviceNumber: "119",
+            serviceNumber: "119X",
             destination: {
                 text: "KOVAN",
                 font: "Mobitec-7:7"
@@ -1382,7 +1382,7 @@ EDSData.GASG = {
             scrolls: [
                 {
                     renderType: "destScroll",
-                    serviceNumber: "119",
+                    serviceNumber: "119X",
                     top: "Kovan",
                     topFont: "Mobitec-13:8"
                 },
