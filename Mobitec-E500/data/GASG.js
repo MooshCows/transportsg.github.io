@@ -2055,6 +2055,101 @@ EDSData.GASG = {
             scrollFont: "Mobitec-7:4"
         }
     },
+    8401: {
+        front: {
+            renderType: "standardService",
+            serviceNumber: "840",
+            destination: {
+                text: "LOYANG INT",
+                font: "Mobitec-7:7"
+            },
+            scrolls: [
+                {
+                    renderType: "destScroll",
+                    serviceNumber: "840",
+                    top: "Loyang",
+                    topFont: "Mobitec-13:8"
+                },
+            ],
+            scrollFont: "Mobitec-7:4"
+        }
+    },
+    8411: {
+        front: {
+            renderType: "standardService",
+            serviceNumber: "841",
+            destination: {
+                text: "LOYANG INT",
+                font: "Mobitec-7:7"
+            },
+            scrolls: [
+                {
+                    renderType: "destScroll",
+                    serviceNumber: "841",
+                    top: "Punggol",
+                    topFont: "Mobitec-13:8"
+                },
+            ],
+            scrollFont: "Mobitec-7:4"
+        }
+    },
+    8421: {
+        front: {
+            renderType: "standardService",
+            serviceNumber: "842",
+            destination: {
+                text: "LOYANG INT",
+                font: "Mobitec-7:7"
+            },
+            scrolls: [
+                {
+                    renderType: "destScroll",
+                    serviceNumber: "842",
+                    top: "Loyang",
+                    topFont: "Mobitec-13:8"
+                },
+            ],
+            scrollFont: "Mobitec-7:4"
+        }
+    },
+    8491: {
+        front: {
+            renderType: "standardService",
+            serviceNumber: "849",
+            destination: {
+                text: "LOYANG INT",
+                font: "Mobitec-7:7"
+            },
+            scrolls: [
+                {
+                    renderType: "destScroll",
+                    serviceNumber: "849",
+                    top: "Loyang",
+                    topFont: "Mobitec-13:8"
+                },
+            ],
+            scrollFont: "Mobitec-7:4"
+        }
+    },
+    3812: {
+        front: {
+            renderType: "standardService",
+            serviceNumber: "381X",
+            destination: {
+                text: "PUNGGOL INT",
+                font: "Mobitec-7:7"
+            },
+            scrolls: [
+                {
+                    renderType: "destScroll",
+                    serviceNumber: "381X",
+                    top: "Punggol",
+                    topFont: "Mobitec-13:8"
+                },
+            ],
+            scrollFont: "Mobitec-7:4"
+        }
+    },
     64000: {
         front: {
             renderType: "standardService",
