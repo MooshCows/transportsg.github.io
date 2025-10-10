@@ -730,7 +730,7 @@ EDSData.GASG = {
         1: {
             front: {
                 renderType: "standardService",
-                serviceNumber: "3",
+                serviceNumber: "3X",
                 destination: "TAMPINES",
                 destinationFont: "Hanover-10",
                 scrolls: [
@@ -739,11 +739,11 @@ EDSData.GASG = {
                     top: "Tampines",
                     topFont: "Lecip-GoAhead16:10",
         
-                    serviceNumber: "3"
+                    serviceNumber: "3X"
                 },
                 {
                     renderType: "message",
-                    text: "3",
+                    text: "3X",
                     font: "LECIP-19:GoAheadBigNumber",
                     spacing: 12
                 },
@@ -752,7 +752,7 @@ EDSData.GASG = {
             },
             rear: {
                 renderType: "rearService",
-                serviceNumber: "3",
+                serviceNumber: "3X",
                 font: "Lecip-GoAhead20:12",
                 spacing: 3
             }
@@ -827,7 +827,7 @@ EDSData.GASG = {
         1: {
             front: {
                 renderType: "standardService",
-                serviceNumber: "6",
+                serviceNumber: "6C",
                 destination: "PASIR RIS",
                 destinationFont: "Hanover-10",
                 scrolls: [
@@ -836,11 +836,11 @@ EDSData.GASG = {
                     top: "Pasir Ris",
                     topFont: "Lecip-GoAhead16:10",
         
-                    serviceNumber: "6"
+                    serviceNumber: "6C"
                 },
                 {
                     renderType: "message",
-                    text: "6",
+                    text: "6C",
                     font: "LECIP-19:GoAheadBigNumber",
                     spacing: 12
                 },
@@ -849,7 +849,7 @@ EDSData.GASG = {
             },
             rear: {
                 renderType: "rearService",
-                serviceNumber: "6",
+                serviceNumber: "6C",
                 font: "Lecip-GoAhead20:12",
                 spacing: 2
             }
