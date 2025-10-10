@@ -8298,6 +8298,31 @@ EDSData.SBST = {
             }
         }
     },
+    230M: {
+        1: {
+            front: {
+                renderType: "standardService",
+                serviceNumber: "230M",
+                destination: {
+                    text: "TOA PAYOH INT - KIM KEAT AVE (LOOP)",
+                    font: "LECIP-8"
+                },
+                scrolls: [
+                    "LOR 6 TOA PAYOH",
+                    "TOA PAYOH EAST",
+                ],
+                scrollFont: "LECIP-8"
+            },
+            pids: {
+                renderType: "pids",
+                serviceNumber: "230M",
+                destination: "TOA PAYOH INT",
+                scrolls: [
+                    "TOA PAYOH INT"
+                ]
+            }
+        }
+    },
     231: {
         1: {
             front: {
@@ -9362,6 +9387,57 @@ EDSData.SBST = {
                 destination: "BEDOK INT",
                 scrolls: [
                     "BEDOK INT"
+                ]
+            }
+        }
+    },
+    402: {
+        1: {
+            front: {
+                renderType: "standardService",
+                serviceNumber: "402",
+                destination: {
+                    text: "SHENTON WAY - MARINA COASTAL DR",
+                    font: "LECIP-8"
+                },
+                scrolls: [
+                    'ANSON RD',
+                    'CECIL ST',
+                ],
+                scrollFont: "LECIP-8"
+            },
+            pids: {
+                renderType: "pids",
+                serviceNumber: "402",
+                destination: "SHENTON WAY TER",
+                scrolls: [
+                    "SHENTON WAY TER"
+                ]
+            }
+        }
+    },
+    403: {
+        1: {
+            front: {
+                renderType: "standardService",
+                serviceNumber: "403",
+                destination: {
+                    text: "PASIR RIS - PASIR RIS RD",
+                    font: "LECIP-8"
+                },
+                scrolls: [
+                    'PASIR RIS DR 3',
+                    'PASIR RIS DR 8',
+                    'ELIAS RD',
+                ],
+                scrollFont: "LECIP-8"
+            },
+            pids: {
+                renderType: "pids",
+                serviceNumber: "403",
+                destination: "PASIR RIS INT",
+                scrolls: [
+                    "PASIR RIS INT"
                 ]
             }
         }
